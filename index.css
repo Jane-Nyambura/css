@@ -1,12 +1,11 @@
 body {
     background-color: rgb(54, 134, 107);
-    text-align: center;
+    text-align: left;
     font-size: 20px;
-    border: 12px solid rgb(20, 29, 29);
-    margin-top: 60px;
+    margin-top: 2px;
     padding: 25px;
-    text-align: center;
-    border-collapse: collapse;
-    width: 400px;
-    length: 400px;
+    width: 1000px;
+    align-items: center;
+    border: 10px solid black;
+    height: 400px;
 }
